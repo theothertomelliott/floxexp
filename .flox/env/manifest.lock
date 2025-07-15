@@ -24,7 +24,6 @@
       "something": {
         "command": "\tmkdir -p $out/bin\n\tgo build -o $out/bin/app .\n",
         "sandbox": "pure",
-        "version": "0.0.1",
         "description": "A simple app"
       }
     }
