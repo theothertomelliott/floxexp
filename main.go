@@ -5,7 +5,7 @@ import (
 	"os"
 )
 
-const iteration = 1
+const iteration = 2
 
 func main() {
 	fmt.Println("Iteration", iteration)
