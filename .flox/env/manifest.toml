@@ -82,6 +82,7 @@ FLOX_VAR_TEST = "123abc"
 ##  $ flox publish
 ## ------------------------------------------------------------------
 [build.something]
+version="0.0.1"
 description="A simple app"
 command="""
 	mkdir -p $out/bin
